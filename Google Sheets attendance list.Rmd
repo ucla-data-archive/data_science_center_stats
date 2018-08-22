@@ -1,0 +1,26 @@
+---
+title: "Untitled"
+author: "Ian May"
+date: "August 2, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+getwd()
+options(stringsAsFactors = F)
+attend <- read.csv("attendance_lists - outreach-fy17-18.csv")
+str(attend)
+summary(attend)
+
+library(dplyr)
+cat <- group_by(attend, event, category)
+number <- summarize (cat, number_people = n())
+number
+ev <- group_by(attend, event)
+events <- summarize(ev, number_events = n())
+events
+dt <- group_by(attend, date, event )
+dat <- summarize(dt, number_date = n())
+dat
+
+```

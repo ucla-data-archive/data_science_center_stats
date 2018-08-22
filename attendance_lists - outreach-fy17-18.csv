@@ -1,0 +1,480 @@
+event,date,first_name,last_name,email,affiliation,status,mailing_list,audience,category
+Software Carpentry,2017-10-17,Alycia,Cheng,acheng07@ucla.edu,,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Alycia,Cheng,acheng07@ucla.edu,,staff,Y,,lariac
+Software Carpentry,2017-10-17,Abdullah,Daboussi,adaboussi@ts.ucla.edu,transportation,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Abdullah,Daboussi,adaboussi@ts.ucla.edu,transportation,staff,Y,,lariac
+Introduction to R,2018-01-25,Amr,Shahat,akshahat@g.ucla.edu,ucla,student,Y,,r
+Data Management: File Organization,2018-02-13,Amr,Shahat,akshahat@g.ucla.edu,ucla,student,Y,,management
+Software Carpentry,2017-10-17,Albert,Koetgram,albertkun@ucla.edu,ucla,gis_coordinator,Y,,software
+Data Management: File Organization,2018-02-13,Amy ,Cummings,alcummings@mednet.ucla.edu,ucla,fellow,Y,,management
+Software Carpentry,2017-10-17,Amanda ,Bullen,amanda.bullen@eagleview.com,eagleview,,N ,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Amanda ,Bullen,amanda.bullen@eagleview.com,eagleview,,N ,,lariac
+Open Science Framework for Research Workflows,2017-10-18,Andreh,Marouti,andre_maroutiam@yahoo.com,vgr_nelc,grad,Y,,research
+Introduction to R,2018-01-25,Andrew,Cobian,andrewcobian@g.ucla.edu,,,,,r
+Introduction to R,2018-01-25,Andriana,Nikolova,andriana.nikolova@csmc.edu,,,,,r
+Data Management Workshop,2018-07-25,Ashleigh ,Herrera,anherrera1313@gmail.com,,,Y,,management
+Data Sharing Bootcamp,2018-02-02,Annelie ,Rugg,annelie@humnet.ucla.edu,cdh,staff,Y,,
+Introduction to R,2018-01-25,Ariel,Nash Hahn,arielhahn@ucla.edu,,,,,r
+Literate Programming,2017-09-08,Andy,Rotkowski,Arutkowski@g.ucla.edu,dlp,,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Ashley,Williams,ashleywilliams@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Ashley,Williams,ashleywilliams@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Ashley,Williams,ashleywilliams@ucla.edu,mass,grad,,,r
+Library Carpentry Workshop,2018-05-24,Joyce,Wong,asujok@g.ucla.edu,ucla,student,Y,,carpentry
+Software Carpentry,2017-10-17,Dawn,Aveline,avelined@library.ucla.edu,preservation,head,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Dawn,Aveline,avelined@library.ucla.edu,preservation,head,Y,Y,lariac
+Literate Programming,2017-09-08,Andrea,Verdulst,averdu@ccpr.ucla.edu,ccpr,,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Andrea,Verhulst,averhu@ccpr.ucla.edu,ccpr,postdoc,,,r
+SQL Workshop - Master of Social Science,2017-11-02,Amber,Villalobos,avillalobos@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Amber,Villalobos,avillalobos@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Amber,Villalobos,avillalobos@ucla.edu,mass,grad,,,r
+Software Carpentry,2017-10-17,Abra ,Walsh,awalsh@conet.ucla.edu,vcor-sustainable_lagc,post_doc,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Abra ,Walsh,awalsh@conet.ucla.edu,vcor-sustainable_lagc,post_doc,Y,,lariac
+Introduction to R,2018-01-25,Alyssa,Tou,awhtou@gmail.com,,,,,r
+NA,Need to find,Annie,Woffard,awoffard@ucla.edu,heoc,,Y,,
+Introduction to R,2018-01-25,Annie,Wofford,awofford@g.ucla.edu,,,,,r
+Library Carpentry Workshop,2018-05-24,Brianna,Toth,batoth@gmail.com,ucla,mus_student,Y,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Brianna,Toth,batoth@gmail.com,ucla,mus_student,Y,,carpentry
+SQL Workshop - Master of Social Science,2017-11-02,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,sql
+SQL Workshop - Master of Social Science,2017-11-02,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,python
+Python- Master of Social Science,2017-11-16,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,python
+R workshop - MASS,2017-11-28,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,r
+R workshop - MASS,2017-11-28,Humberto,Solis,berto.solis@gmail.com,mass,grad,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,r
+Using Data Effectively,2017-09-07,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,data
+LIbrary Carpentry Workshop,2017-09-08,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,carpentry
+Literate Programming,2017-09-08,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,
+Software Carpentry,2017-10-16,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,software
+Software Carpentry,2017-10-16,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,software
+Using Data Effectively,2018-09-07,Bethany ,Myers,bethanymyers@library.ucla.edu,sue,librarian,Y,,
+Library Carpentry Workshop,2017-09-08,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,carpentry
+Software Carpentry,2017-10-17,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,software
+Introduction to R,2018-01-25,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,r
+Open Refine Meetup,2018-01-30,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,r
+Programming Pizza Party (R/Python),2018-02-01,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,r/python
+Data Cleaning with R,2018-02-06,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,r
+Programming Pizza Party,2018-02-15,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Bill,Hackenberg,billha@library.ucla.edu,diit,staff,Y,,lariac
+Software Carpentry,2017-10-17,Bo,Zhou,bodacious@ucla.edu,,,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Bo,Zhou,bodacious@ucla.edu,,,,,lariac
+Software Carpentry,2017-10-17,Brian,Won,brian@ssc.ucla.edu,geography,staff,Y,,software
+Open Science Framework for Research Workflows,2017-10-18,Brian ,Won,brian@ssc.ucla.edu,ssc/geography,it,Y,,research
+Programming Pizza Party,2018-02-15,Brian ,Won,brian@ssc.ucla.edu,geography,staff,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Brian ,Won,brian@ssc.ucla.edu,ssc/geography,it,Y,,
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Brian,Won,brian@ssc.ucla.edu,geography,staff,Y,,lariac
+Programming Pizza Party (R/Python),2018-02-01,Kristen,Brock-Petroshius,brockpet@ucla.edu,social_welfare ,grad,Y,,r/python
+Programming Pizza Party,2018-02-15,Kristen ,Brock-Petroshius,brockpet@ucla.edu,social_welfare ,grad,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Kristen,Brock-Petroshius,brockpet@ucla.edu,social_welfare ,grad,Y,,
+Programming Pizza Party (Canceled),2018-03-01,Kristen,Brock-Petroshius,brockpet@ucla.edu,social_welfare ,grad,Y,,
+Software Carpentry,2017-10-17,Christina,Hernandez,chernandez@conet.ucla.edu,,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Christina,Hernandez,chernandez@conet.ucla.edu,,staff,Y,,lariac
+Programming Pizza Party (R/Python),2018-02-01,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,r/python
+Data Cleaning with R,2018-02-06,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,r
+Programming Pizza Party,2018-02-15,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,sql
+Python- Master of Social Science,2017-11-16,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,python
+R workshop - MASS,2017-11-28,Chloe,Bergsona-Safar,chloeabs@ucla.edu,mass,grad,Y,,r
+LIbrary Carpentry Workshop,2018-05-28,Chris ,Dixon,christopher.r.dixon@upl.nasa.gov,nasa,staff; systems specialist,N ,,carpentry
+SQL Workshop - Master of Social Science,2017-11-02,Chelsea,Khakshouri,ckhakshouri@g.ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Chelsea,Khakshouri,ckhakshouri@g.ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Chelsea,Khakshouri,ckhakshouri@g.ucla.edu,mass,grad,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Cindy,Kimmick,ckimmick@library.ucla.edu,diit,staff,Y,,r
+Literate Programming,2017-09-08,Cindy,Kimmick,ckimmick@library.ucla.edu,diit,staff,Y,,
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Christine,Lam,clam2@isd.lacounty.gov,la_county,,,,lariac
+Using Data Effectively,2017-09-07,Claudia,Henriquez,claudiahenriquez901@gmail.com,ucla,ra,Y,,data
+Software Carpentry,2017-10-16,Claudia,Henriquez,claudiahenriquez901@gmail.com,ucla,ra,Y,,software
+Software Carpentry,2017-10-16,Cesar,Sul,csul@usc.edu,usc,staff,N ,,software
+Software Carpentry,2017-10-16,Cesar,Sul,csul@usc.edu,usc,staff,N ,,software
+Software Carpentry,2017-10-16,Camilla,Sultana,csultana@ucsd.edu,ucsd,post_doc,N ,,software
+Software Carpentry,2017-10-16,Camilla,Sultana,csultana@ucsd.edu,ucsd,post_doc,N ,,software
+Data Management Workshop,2018-07-25,Daisy ,Ramirez,daisyramirez@ucla.edu,,,Y,,management
+Introduction to R,2018-01-25,Damani,White-Lewis,damaniklewis@gmail.com,,,,,r
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Dana,Milstein,dana@humnet.ucla.edu,,,,,
+Software Carpentry,2017-10-17,Darrow,Cole,darrowco@library.ucla.edu,,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Darrow,Cole,darrowco@library.ucla.edu,,staff,Y,,lariac
+Library Carpentry Workshop,2018-05-24,Dorothy,Auyong,dauyong@huntington.org,huntington,librarian,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Dorothy,Auyong,dauyong@huntington.org,huntington,librarian,N ,,carpentry
+Software Carpentry,2017-10-17,David,Yamamoto,davey@facnet.ucla.edu,facilities,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,David,Yamamoto,davey@facnet.ucla.edu,,,,,lariac
+Data Management Workshop,2018-07-25,David,Zimmerman,david.zimmerman.phd@anderson.ucla.edu,,,Y,,management
+Introduction to R,2018-01-25,Dong Ook,Eun,deun@ucla.edu,,,,,r
+Library Carpentry Workshop,2018-05-24,Jennifer ,Dinalo,dinalo@usc.edu,usc,faculty,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Jennifer ,Dinalo,dinalo@usc.edu,usc,faculty,N ,,carpentry
+Data Sharing Bootcamp,2018-02-02,Davida ,Johnson,djohnson@oit.ucla.edu,oit,staff,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Dia,Khuu,dkhuu@ucla.edu,epidemiology,,Y,,r
+Literate Programming,2017-09-08,Dia,Khuu,dkhuu@ucla.edu,epidemiology,,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Dominique,O'Neill,dnoneill@ucla.edu,diit,staff,,,r
+Software Carpentry,2017-10-16,Dominique,O'Neill,dnoneill@ucla.edu,diit,staff,,,software
+Software Carpentry,2017-10-16,Dominique,O'Neill,dnoneill@ucla.edu,diit,staff,,,software
+Literate Programming,2017-09-08,Doug ,Daniels,dougdaniels@library.ucla.edu,diit,,Y,,
+Introduction to R,2018-01-25,Doug,Daniels,dougdaniels@library.ucla.edu,diit,,,,r
+,,Doug ,Daniels,dougdaniels@library.ucla.edu,mlis/diit,,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,,,r
+Using Data Effectively,2017-09-07,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,Y,,data
+LIbrary Carpentry Workshop,2017-09-08,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,Y,,carpentry
+Literate Programming,2017-09-08,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,Y,,
+Library Carpentry Workshop,2018-05-24,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,Y,,carpentry
+Using Data Effectively,2018-09-07,Dana,Peterman,dpeterman@library.ucla.edu,dlp,librarian,Y,,
+Introduction to R,2018-01-25,Dana,Milstein,drdanamilstein@gmail.com,epic,,,,r
+Software Carpentry,2017-10-17,Daniel,Schoorl,dschoorl@ucla.edu,,librarian,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Daniel,Schoorl,dschoorl@ucla.edu,,librarian,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen,staff,Y,,r
+Using Data Effectively,2017-09-07,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen,staff,Y,,data
+Library Carpentry Workshop,2017-09-08,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen ,staff,Y,,carpentry
+Literate Programming,2017-09-08,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen ,staff,Y,,
+Software Carpentry,2017-10-16,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen ,staff,Y,,software
+Software Carpentry,2017-10-16,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen,staff,Y,,software
+Open Science Framework for Research Workflows,2017-10-18,Deidre,Whitmore,dwhitmore@g.ucla.edu,cotsen ,staff,Y,,research
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Edson,Smith,edson@library.ucla.edu,diit,staff,Y,,r
+Using Data Effectively,2017-09-07,Edson,Smith,edson@library.ucla.edu,diit,staff,Y,,data
+Software Carpentry,2017-10-16,Edson,Smith,edson@library.ucla.edu,diit,staff,Y,,software
+Software Carpentry,2017-10-16,Edson,Smith,edson@library.ucla.edu,diit,staff,Y,,software
+Open Science Framework for Research Workflows,2017-10-18,Edson,Smith,edson@library.ucla.edu,diit,data_strategist,Y,,research
+Software Carpentry,2017-10-17,Eric,Fournier,efournier@ucla.edu,,researcher,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Eric,Fournier,efournier@ucla.edu,,researcher,Y,,lariac
+Introduction to R,2018-01-25,Emi,Fujita-Conrads,efujitaconrads@g.ucla.edu,,,,,r
+Library Carpentry Workshop,2018-05-24,Eimmy,Solis,eimmysol@usc.edu,usc,faculty,N ,,carpentry
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Elior,Cohen,eliorc@ucla.edu,,,,,r
+Software Carpentry,2017-10-16,Erin,Shaw,erinshaw@usc.edu,usc  ,,N ,,software
+Software Carpentry,2017-10-17,Felicia,Federico,ffederico@ioes.ucla.edu,,,Y,,software
+Library Carpentry Workshop,2018-05-24,Scott,Friedman,freidman@ucla.edu,ucla,staff,Y,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Scott,Friedman,freidman@ucla.edu,ucla,staff,Y,,carpentry
+Programming Pizza Party,2018-02-15,Gabriel,Hall,gabriel.hall@research.ucla.edu,research_office,staff,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Gabriel,Hall,gabriel.hall@research.ucla.edu,research_office,staff,Y,,
+Software Carpentry,2017-10-16,Genevieve,Aquino,gbaquino@up.edu.ph,uplb,staff,N ,,software
+Software Carpentry,2017-10-16,Genevieve,Aquino,gbaquino@up.edu.ph,uplb,staff,N ,,software
+Library Carpentry Workshop,2018-05-24,Geno,Sanchez,geno21@ucla.edu,ucla,staff ,Y,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Geno,Sanchez,geno21@ucla.edu,ucla,staff ,Y,,carpentry
+Software Carpentry,2017-10-17,Gillian,Bailey,gillian@library.ucla.edu,,staff ,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Gillian,Bailey,gillian@library.ucla.edu,,staff,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Gregory,Leslie,gregoryleslie@ucla.edu,,,,,r
+Software Carpentry,2017-10-17,Goetz,Wolff,gwolff@ucla.edu,,faculty,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Goetz,Wolff,gwolff@ucla.edu,,faculty,Y,,lariac
+SQL Workshop - Master of Social Science,2017-11-02,Xin,Guo,gxin@bu.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Xin,Guo,gxin@bu.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Xin,Guo,gxin@bu.edu,mass,grad,,,r
+Data Management Workshop,2018-07-25,Hawra ,Sajwani,hawraa@live.com,,,Y,,management
+Software Carpentry,2017-10-17,Hannah,Gustafson,hgustafson@ioes.ucla.edu,,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Hannah,Gustafson,hgustafson@ioes.ucla.edu,,staff,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Hongming,Tong,hongmingt17@ucla.edu,summer_session,,,,r
+Literate Programming,2017-09-08,Hongming,Tong,hongmingt17@ucla.edu,summer_session,,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Hsin-Yi,Lin,hsinyilin810252@g.ucla.edu,econ,,Y,,r
+Literate Programming,2017-09-08,Hsin-Yi,Lin,hsinyilin810252@g.ucla.edu,econ,,Y,,
+Data Management Workshop,2018-07-25,Hyunjung ,Chi,hyunjungchi@gmail.com,,,Y,,management
+Software Carpentry,2017-10-17,Ivy,Castillo,icastillo@ehs.ucla.edu,ehs,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Ivy,Castillo,icastillo@ehs.ucla.edu,,,,,lariac
+Data Management Workshop,2018-07-25,Ian,May,imaygo2ucla@g.ucla.edu,dsc,student,Y,,management
+Introduction to R,2018-01-25,Jacob,Thomas,j.thomas@ucla.edu,,,,,r
+Programming Pizza Party (R/Python),2018-02-01,Jacob,Thomas,j.thomas@ucla.edu,,,,,r/python
+Data Management: File Organization,2018-02-13,Jacob ,Thomas,j.thomas@ucla.edu,,student,Y,,management
+Library Carpentry Workshop,2017-09-08,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,carpentry
+Literate Programming,2017-09-08,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,
+Open Refine workshop,2017-09-27,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,
+Software Carpentry,2017-10-17,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,software
+Open Science Framework for Research Workflows,2017-10-18,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,research
+Data Cleaning with R,2018-02-06,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,r
+Programming Pizza Party,2018-02-15,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,lariac
+Using Data Effectively,2018-09-07,Jamie,Jamison,jamison@library.ucla.edu,dsc,staff,,,
+Software Carpentry,2017-10-17,Jason,Karpman,jason.karpman@gmail.com,luskin,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Jason,Karpman,jason.karpman@gmail.com,luskin,staff,Y,,lariac
+Open Science Framework for Research Workflows,2017-10-18,Jennifer ,Chan,jchan@library.ucla.edu,library_scl,librarian,Y,,research
+Introduction to R,2018-01-25,Jessica,Schnittka,jeschnittka@ucla.edu,,,,,r
+Programming Pizza Party (R/Python),2018-02-01,Jill,Giardino,jgiardino@ucla.edu,mass,grad,,,r/python
+Programming Pizza Party,2018-02-15,Jill,Giardino,jgiardino@ucla.edu,mass,grad,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Jill,Giardino,jgiardino@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Jill,Giardino,jgiardino@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Jill,Giardino,jgiardino@ucla.edu,mass,grad,,,r
+Data Management Workshop,2018-07-25,Jingqju ,Guan,jguan030@gmail.com,,,Y,,management
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Joao,Guassi Moreira,jguassimoreira@ucla.edu,sand_lab,grad,,,r
+Software Carpentry,2017-10-17,Janine ,Henri,jhenri@library.ucla.edu,ucla_library,librarian,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Janine ,Henri,jhenri@library.ucla.edu,ucla_library,librarian,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Jianchao,Lai,jlai24@ucla.edu,,,,,r
+Literate Programming,2017-09-08,Jiancheio ,Lou,jlou24@ucla.edu,social_welfare,,Y,,
+Data Sharing Bootcamp,2018-02-02,John,Lynch,jlynch@humnet.ucla.edu,cdh,staff,Y,,
+Using Data Effectively,2017-09-07,Jessica,Mentesoglu,jmentesoglu@ucla.edu,diit,staff,Y,,data
+Software Carpentry,2017-10-16,Jessica,Mentesoglu,jmentesoglu@ucla.edu,diit,staff,Y,,software
+Software Carpentry,2017-10-16,Jessica,Mentesoglu,jmentesoglu@ucla.edu,diit,staff,Y,,software
+Using Data Effectively,2018-09-07,Jessica,Mentesoglu,jmentesoglu@ucla.edu,diit,staff,Y,,
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Joachim,Vandekerckhove,joachim@uci.edu,,,,,
+Library Carpentry Workshop,2018-05-24,Joanna,Smith,joanna.smith@ucla.edu,ucla,mlis_student,Y,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Joanna,Smith,joanna.smith@ucla.edu,ucla,mlis student,Y,,carpentry
+Introduction to R,2018-01-25,Julio,Fregoso,juliofregoso2@g.ucla.edu,,,,,r
+NA,Need to find,Julio,Jregoso,juliofregoso2@g.ucla.edu,gsebis-heoc,,Y,,
+Open Science Framework for Research Workflows,2017-10-18,Julio ,Parra Martinez,julioparra@ucla.edu,physics,grad,Y,,research
+Introduction to R,2018-01-25,Katherine,Cho,katcho@ucla.edu,,,,,r
+Data Visual with R,2018-01-30,Katherine,Cho,katcho@ucla.edu,heoc,grad,Y,,r
+NA,Need to find,Katherine,Cho,katcho@ucla.edu,heoc,,Y,,
+Data Cleaning with R,2018-02-06,Katherine,Lawrence,katherine.e.laurence@ucla.edu,nsidp,grad,Y,,r
+Data Management: File Organization,2018-02-13,Katherine,Lawrence,katherine.e.laurence@ucla.edu,nsidp,grad,Y,,management
+NA,Need to find,Katherine,Lawrence,katherine.e.laurence@ucla.edu,nsidp,grad,Y,,
+Introduction to R,2018-01-25,Katherine,Lawrence,katherine.e.lawrence@ucla.edu,,,,,r
+Introduction to R,2018-01-25,Kathy,Fu,kathylinfu@gmail.com,,,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Jordan,Tanner,kensie.tanner@ucla.edu,,,,,r
+Introduction to R,2018-01-25,Katherine,Hanna,kgrhanna@gmail.com,,,,,r
+Library Carpentry Workshop,2018-05-24,Karen,Howell,khowell@usc.edu,usc,faculty,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Karen,Howell,khowell@usc.edu,usc,faculty,N ,,carpentry
+SQL Workshop - Master of Social Science,2017-11-02,Kirsten,Fargas,kirstenfargas@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Kirsten,Fargas,kirstenfargas@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Kirsten,Fargas,kirstenfargas@ucla.edu,mass,grad,,,r
+Data Management Workshop,2018-07-25,Karla,Rivera-Torres,krl82290@ucla.edu,,,Y,,management
+SQL Workshop - Master of Social Science,2017-11-02,Lara,Drasin,laradrasin@g.ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Lara,Drasin,laradrasin@g.ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Lara,Drasin,laradrasin@g.ucla.edu,mass,grad,,,r
+Open Science Framework for Research Workflows,2017-10-18,Laura,Jara,laurajara@g.ucla.edu,library_sciences,first_year,Y,,research
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Leigh,Phan,leighphan@library.ucla.edu,dsc,staff,,,r
+Literate Programming,2017-09-08,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,
+Library Carpentry Workshop,2017-09-08,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,carpentry
+Software Carpentry,2017-10-17,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,software
+Data VIsual with R,2018-01-30,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,r
+Data Sharing Bootcamp,2018-02-02,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,
+Data Cleaning with R,2018-02-06,Leigh ,Phan,leighphan@library.ucla.edu,dsc,staff,,,r
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Leigh,Phan,leighphan@library.ucla.edu,dsc,staff,,,lariac
+Introduction to R,2018-01-25,Jingfen,Lim,limjingfen@g.ucla.edu,mph,,,,r
+NA,Need to find,Jingfen ,Lim,limjingfen@g.ucla.edu,mph,,Y,,
+Introduction to R,2018-01-25,Laureen,Masai,lmasai@ucla.edu,chpr,,Y,,r
+NA,Need to find,Laureen,Masai,lmasai@ucla.edu,chpr,,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Lili,Nie,lnie@mednet.ucla.edu,,,,,
+Library Carpentry Workshop,2018-05-24,Lorain,Wang,lowang@getty.edu,getty,,N ,,carpentry
+Library Carpentry Workshop,2018-05-24,Louise,Ratliff,lratliff@library.ucla.edu,ucla,student,Y,,carpentry
+Software Carpentry,2017-10-17,Lauren,Mueller,lrmueller@ucla.edu,facilities,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Lauren,Mueller,lrmueller@ucla.edu,facilities,staff,Y,,lariac
+Library Carpentry Workshop,2018-05-24,Laura,Schroffer,lschroffel@getty.edu,getty,,N ,,carpentry
+Introduction to R,2018-01-25,Lucrecia,Mena,luckymena@ucla.edu,,,,,r
+Data Management: File Organization,2018-02-13,Lucy ,Cui,lucy.cui@ucla.edu,ucla,grad,Y,,management
+Data Management Workshop,2018-07-25,Luui,Feliz,luuafelix@gmail.com,,,Y,,management
+Open Refine Meetup,2018-01-30,Angel,Diaz,madiaz@library.ucla.edu,,,,,r
+Data VIsual with R,2018-01-30,Mahmood ,Khan,mahmoodritc@humnet.ucla.edu,cdh ,grad_staff,Y,,r
+Software Carpentry,2017-10-17,Maria,Jankowska,majankowska@library.ucla.edu,,librarian,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Maria,Jankowska,majankowska@library.ucla.edu,,librarian,Y,,lariac
+Software Carpentry,2017-10-17,Mark,Davidson,mark.h.davidson@jpl.nasa.gov,jpl,manager,N ,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Mark,Davidson,mark.h.davidson@jpl.nasa.gov,jpl,manager,N ,,lariac
+Open Science Framework for Research Workflows,2017-10-18,Marty,Brennan,martinjbrennan@library.ucla.edu,library-scl,librarian,Y,,research
+Introduction to R,2018-01-25,Melanie,Sonsteng,masonsteng@yahoo.com,,,Y,,r
+,,Melanie,Sonsterg,masonsteng@yahoo.com,,,Y,,
+Software Carpentry,2017-10-17,Matt,Zebrowski,matt@geog.ucla.edu,geography,staff/student,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Matt,Zebrowski,matt@geog.ucla.edu,geography,staff/student,Y,,lariac
+Software Carpentry,2017-10-16,Meredith ,Conroy,mconroy@csusb.edu,csusb,,N ,,software
+Programming Pizza Party (Python/R/Data),2018-02-15,Meng,Du,mengdu@umich.edu,,,,,
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Meredith,Phillips,meredith.phillips@ucla.edu,,,,,
+Literate Programming,2017-09-08,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,
+Library Carpentry Workshop,2017-09-08,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,carpentry
+Open Refine workshop,2017-09-26,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,
+Introduction to R,2018-01-25,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,r
+Programming Pizza Party (R/Python),2018-02-01,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,r/python
+Programming Pizza Party,2018-02-15,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,
+LIbrary Carpentry Workshop,2018-05-28,Maggie,Hughes,mhughes@library.ucla.edu,special_collections,,Y,,carpentry
+Software Carpentry,2017-10-16,Mike ,Peters,mike.peters@ucla.edu,geography  ,,Y,,software
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,r
+Literate Programming,2017-09-08,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,
+Library Carpentry Workshop,2017-09-08,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,carpentry
+Open Science Framework for Research Workflows,2017-10-18,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,research
+Introduction to R,2018-01-25,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,r
+Data Sharing Bootcamp,2018-02-02,Mile,Golshan,milenagolshan@ucla.edu,info_services,staff,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Misha,Garg,mishagarg@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Misha,Garg,mishagarg@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Misha,Garg,mishagarg@ucla.edu,mass,grad,,,r
+Library Carpentry Workshop,2017-09-08,Mary,Jide,mmcnamara@library.ucla.edu,lib_biomed,librarian,Y,,carpentry
+Literate Programming,2017-09-08,Mary,Jide,mmcnamara@library.ucla.edu,lib_biomed,librarian,Y,,
+Open Science Framework for Research Workflows,2017-10-18,Mary,Jide,mmcnamara@library.ucla.edu,lib_biomed,librarian,Y,,research
+Using Data Effectively,2018-09-07,Mary,Jide,mmcnamara@library.ucla.edu,lib_biomed,librarian,Y,,
+Data Cleaning with R,2018-02-06,Mahmood ,Khan,mnkhan@g.ucla.edu,cdh_geog,grad_staff,Y,,r
+Data Management: File Organization,2018-02-13,Mahmood ,Khan,mnkhan@g.ucla.edu,cdh_geog,grad_staff,Y,,management
+Introduction to R,2018-01-25,Mahmood,Khan,mnkhan@g.ucla.edu,cdh_geog,grad_staff,Y,,r
+Programming Pizza Party (R/Python),2018-02-01,Monica,Lee,monlee@ucla.edu,mass,grad,,,r/python
+SQL Workshop - Master of Social Science,2017-11-02,Monica,Lee,monlee@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Monica,Lee,monlee@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Monica,Lee,monlee@ucla.edu,mass,grad,,,r
+Programming Pizza Party (R/Python),2018-02-01,Miriam,Pinski,mpinski@ucla.edu,,,,,r/python
+Open Science Framework for Research Workflows,2017-10-18,Michael,Scroggins,mscroggins@ucla.edu,gseis,post_doc,Y,,research
+Data Visual with R,2018-01-30,Tanya,Padagaonkar,namitap@g.ucla.edu,neuroscience,grad,Y,,r
+Data Cleaning with R,2018-02-06,Tanya,Padagaonkar,namitap@g.ucla.edu,neuroscience,grad,Y,,r
+Software Carpentry,2017-10-17,Nick ,Franchino,nfranchino@planning.lacounty.gov,la_county,,N ,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Nick ,Franchino,nfranchino@planning.lacounty.gov,la_county,,N ,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Nicole ,Mahrer,nicolemahrer@gmail.com,psychology,,Y,,r
+Literate Programming,2017-09-08,Nicole ,Mahrer,nicolemahrer@gmail.com,psychology,,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Natalie,Onken,nonken@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Natalie,Onken,nonken@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Natalie,Onken,nonken@ucla.edu,mass,grad,,,r
+Library Carpentry Workshop,2018-05-24,Jun ,Pan,panjun29@gmail.com,ucla,student,Y,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Jun ,Pan,panjun29@gmail.com,ucla,alum,Y,,carpentry
+Software Carpentry,2017-10-17,Piyali,Chaudhuri,pchaudhuri@ts.ucla.edu,transportation,staff,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Piyali,Chaudhuri,pchaudhuri@ts.ucla.edu,transportation,staff,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Caroline,Cube,pinky@library.ucla.edu,special_collections,staff,Y,,r
+Library Carpentry Workshop,2017-09-08,Caroline,Cube,pinky@library.ucla.edu,special_collections,staff,Y,,carpentry
+Literate Programming,2017-09-08,Caroline,Cube,pinky@library.ucla.edu,special_collections,staff,Y,,literacy
+Open Refine workshop,2017-09-24,Caroline,Cube,pinky@library.ucla.edu,special_collections,staff,Y,,
+Introduction to R,2018-01-25,jun,pan,pj.osu@hotmail.com,ucla,student,Y,,r
+Data Cleaning with R,2018-02-06,Jun ,Pan,pj.osu@hotmail.com,ucla,student,Y,,r
+Introduction to R,2018-01-25,Patricia,Martin,pmarti@ucla.edu,heoc,grad,Y,,r
+Data Visual with R,2018-01-30,Patricia,Martin,pmarti@ucla.edu,heoc,grad,Y,,r
+Data Cleaning with R,2018-02-06,Patricia,Martin,pmarti@ucla.edu,heoc,grad,Y,,r
+NA,Need to find,Patricia,Martin,pmarti@ucla.edu,heoc,grad,Y,,
+Open Science Framework for Research Workflows,2017-10-18,Prakashen,Kesonbath,ppk@ucla.edu,idre,programmer,Y,,research
+Introduction to R,2018-01-25,Patrick,Queen,ptqueen@gmail.com,mlis/diit,,Y,,r
+,,Patrick,Queen,ptqueen@gmail.com,mlis/diit,,Y,,
+Software Carpentry,2017-10-17,Qing,Shuang,qshuang@ioes.ucla.edu,,visiting scholar,Y,,software
+Introduction to R,2018-01-25,Qing,Shuang,qshuang@ioes.ucla.edu,,visiting scholar,Y,,r
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Qing,Shuang,qshuang@ioes.ucla.edu,,visiting scholar,Y,,lariac
+Data Management: File Organization,2018-02-13,Quinn ,Tomlinson ,qtomlinson@grad.ucla.edu,ucla/sjsu,grad_staff,Y,,management
+Programming Pizza Party,2018-02-15,Rhonda,Super,rasuper1@library.ucla.edu,aquisition,staff,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Rhonda,Super,rasuper1@library.ucla.edu,aquisition,staff,Y,,
+Introduction to R,2018-01-25,Reed,Buck,rbuck@library.ucla.edu,,,,,r
+Software Carpentry,2017-10-17,Robert ,Cudd,rcudd@ioes.ucla.edu,ccsc,analyst,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Robert ,Cudd,rcudd@ioes.ucla.edu,ccsc,analyst,Y,,lariac
+Open Science Framework for Research Workflows,2017-10-18,Rikke ,Ogawa,rikke.ogawa@library.ucla.edu,library_sciences,director,Y,,research
+Open Science Framework for Research Workflows,2017-10-18,Raquel ,Rivero,"rrivero@library.ucla,edu",ucla_library,staff,Y,,research
+Programming Pizza Party (Python/R/Data),2018-02-15,Rose,Rocchio,rrocchio@oit.ucla.edu,,,,,
+Software Carpentry,2017-10-17,Ruth,Engel,ruthengel@ucla.edu,,grad,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Ruth,Engel,ruthengel@ucla.edu,,grad,Y,,lariac
+Introduction to R,2018-01-25,Ryan,Cho,ryanwcho@ucla.edu,mass,grad,Y,,r
+Programming Pizza Party (R/Python),2018-02-01,Ryan,Cho,ryanwcho@ucla.edu,mass,grad,Y,,r/python
+SQL Workshop - Master of Social Science,2017-11-02,Ryan,Cho,ryanwcho@ucla.edu,mass,grad,Y,,sql
+Python- Master of Social Science,2017-11-16,Ryan,Cho,ryanwcho@ucla.edu,mass,grad,Y,,python
+R workshop - MASS,2017-11-28,Ryan,Cho,ryanwcho@ucla.edu,mass,grad,Y,,r
+Programming Pizza Party,2018-02-15,Ryland ,Lu,rylandlu@g.ucla.edu,urban_planning,grad,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Ryland,Lu,rylandlu@g.ucla.edu,urban_planning,grad,Y,,
+Programming Pizza Party (R/Python),2018-02-01,Spencer,Bujarski,s.bujarski@gmail.com,,,,,r/python
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Saida,Largaespada,saida.wdbym@gmail.com,,,,,r
+Library Carpentry Workshop,2017-09-08,Saida,Largaespada,saida.wdbym@gmail.com,,,,,carpentry
+Introduction to R,2018-01-25,Sarah,Roberts,sarah.roberts@ucla.edu,,,,,r
+SQL Workshop - Master of Social Science,2017-11-02,Sarah,Gavish,sarahegavish@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Sarah,Gavish,sarahegavish@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Sarah,Gavish,sarahegavish@ucla.edu,mass,grad,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Sarah,Soakai,sarahsoakai@ucla.edu,luskin,,Y,,r
+Literate Programming,2017-09-08,Sarah,Soakai,sarahsoakai@ucla.edu,luskin,,Y,,
+Programming Pizza Party,2018-02-15,Spencer,Bujarsk,sbujarski@psych.ucla.edu,,,Y,,
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Samantha,Carrington,scarrin@calstatela.edu,,,,,
+Data Management Workshop,2018-07-25,Will ,Schlesinger,schlesingerwill@ucla.edu,,,Y,,management
+Open Science Framework for Research Workflows,2017-10-18,Sarah ,Christofersen,schr3tofersen@ucla.edu,ucla mimg,grad,Y,,research
+Data Visual with R,2018-01-30,David ,Schriger,schriger@ucla.edu,emery_med,faculty,Y,,r
+Data Cleaning with R,2018-02-06,David ,Schriger,schriger@ucla.edu,emery_med,faculty,Y,,r
+Introduction to R,2018-01-25,Sarah,Christofersen,schristofersen@ucla.edu,mimg,grad,Y,,r
+Data Visual with R,2018-01-30,Sarah,Christofersen,schristofersen@ucla.edu,mimg,grad,Y,,r
+Data Cleaning with R,2018-02-06,Sarah,Christofersen,schristofersen@ucla.edu,mimg,gsr,Y,,r
+Using Data Effectively,2017-09-07,Stewart,Hawkins Jr.,sdh8888@hotmail.com,ucla,grad,Y,,data
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Stewart,Hawkins Jr.,sdh8888@hotmail.com,ucla,grad,Y,,lariac
+Software Carpentry,2017-10-16,Stewart,Hawkins Jr. ,sdh8888@hotmail.com,ucla,grad,Y,,software
+Software Carpentry,2017-10-17,Stewart,Hawkins Jr. ,sdh8888@hotmail.com,ucla,grad,Y,,software
+Software Carpentry,2017-10-17,Sean,Kennedy,sean.kennedy@ucla.edu,ucla,staff,Y,,software
+SQL Workshop - Master of Social Science,2017-11-02,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,sql
+SQL Workshop - Master of Social Science,2017-11-02,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,python
+Python- Master of Social Science,2017-11-16,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,python
+R workshop - MASS,2017-11-28,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,r
+R workshop - MASS,2017-11-28,Sergio,Guedes Reis,sergiorgreis@gmail.com,mass,grad,,,r
+Library Carpentry Workshop,2018-05-24,Shalini,Ramachandran,shalinir@usc.edu,usc,faculty,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Shalini,Ramachandran,shalinir@usc.edu,usc,faculty,N ,,carpentry
+Library Carpentry Workshop,2018-05-24,Sheree,Fu,shereehfu@gmail.com,usc,faculty,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Sheree,Fu,shereehfu@gmail.com,usc,faculty,N ,,carpentry
+Introduction to R,2018-01-25,Saida,Largaespada,sjlargaespada@gmail.com,,,,,r
+SQL Workshop - Master of Social Science,2017-11-02,Skyelar,Maceachern,skyemac22@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Skyelar,Maceachern,skyemac22@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Skyelar,Maceachern,skyemac22@ucla.edu,mass,grad,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Shani,Miller,smiller@library.ucla.edu,preservation_program,staff,,,r
+Literate Programming,2017-09-08,Shani,Miller,smiller@library.ucla.edu,preservation_program,staff,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Suvra,Mostafa,smostafa@g.ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Suvra,Mostafa,smostafa@g.ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Suvra,Mostafa,smostafa@g.ucla.edu,mass,grad,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Soumitra,Chatterjee,sochatter@ucla.edu,ps,,,,r
+Literate Programming,2017-09-08,Soumitra,PS,sochatter@ucla.edu,ps,,Y,,
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Soe Min ,Oo,soeshine@ucla.edu,,,,,r
+Library Carpentry Workshop,2018-05-24,Sona,Basmadijian,sonab@usc.edu,usc,curator/staff,N ,,carpentry
+Data Management Workshop,2018-07-25,Sonia,Jamani,sonia.jamani@gmail.com,,,Y,,management
+Programming Pizza Party (R/Python),2018-02-01,Shira,Peltzman,speltzman@library.ucla.edu,special_collections,faculty,Y,,r/python
+Programming Pizza Party,2018-02-15,Shira,Peltzman,speltzman@library.ucla.edu,special_collections,faculty,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Shira,Peltzman,speltzman@library.ucla.edu,special_collections,faculty,Y,,
+Programming Pizza Party (Python/R/Data),2018-02-15,Srishti,Pal,srishti.pal@gmail.com,,,,,
+Using Data Effectively,2017-09-07,Sharon,Shafer,sshafer@library.ucla.edu,dlp,staff,Y,,data
+Library Carpentry Workshop,2017-09-08,Sharon,Shafer,sshafer@library.ucla.edu,diit,staff,Y,,carpentry
+Open Refine workshop,2017-09-25,Sharon,Shafer,sshafer@library.ucla.edu,diit,staff,Y,,
+Software Carpentry,2017-10-16,Sharon,Shafer,sshafer@library.ucla.edu,diit,staff,Y,,software
+Software Carpentry,2017-10-16,Sharon,Shafer,sshafer@library.ucla.edu,diit,staff,Y,,software
+Using Data Effectively,2018-09-07,Sharon,Shafer,sshafer@library.ucla.edu,diit,staff,Y,,
+Introduction to R,2018-01-25,Stacy,Shaw,stacy.tamsen.shaw@gmail.com,psychology,,,,r
+NA,Need to find,Stacy ,Shaw,stacy.tamsen.shaw@gmail.com,psychology,grad,Y,,
+Open Science Framework for Research Workflows,2017-10-18,Stacy ,Shaw,stacy.tamsen.shaw@gmail.com,psychology,grad,Y,,research
+Data Visual with R,2018-01-30,Stacy ,Shaw,stacy.tamsen.shaw@gmail.com,psychology,grad,Y,,r
+SQL Workshop - Master of Social Science,2017-11-02,Stephanie,Cai,stephaniecai@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Stephanie,Cai,stephaniecai@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Stephanie,Cai,stephaniecai@ucla.edu,mass,grad,,,r
+Software Carpentry,2017-10-17,Thomas,Gillespie,tg@geog.ucla.edu,,professor,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Thomas,Gillespie,tg@geog.ucla.edu,,professor,Y,,lariac
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Tian,Zeng,tiantimzeng@gmail.com,econ,,Y,,r
+Literate Programming,2017-09-08,Tian,Zeng,tiantimzeng@gmail.com,econ,,Y,,
+Open Refine workshop,2017-09-22,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,
+Software Carpentry,2017-10-16,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,software
+Software Carpentry,2017-10-17,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,software
+Open Science Framework for Research Workflows,2017-10-18,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,research
+Programming Pizza Party,2018-02-15,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,
+Faculty Development Workshop: Teaching Transparent Methods of Empirical Research,2018-03-12,Tim,Dennis,timdennis@ucla.edu,dsc,director,,,
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Tim,Dennis,timdennis@ucla.edu,dsc,director,,,lariac
+,Need to find,Tim ,Dennis,timdennis@ucla.edu,dsc,director,,,
+Introduction to R,2018-01-25,Jai,Kim,tixoud@ucla.edu,,,,,r
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Rebecca ,Townsend,townsend.rebeccam@gmail.com,info_studies,student,Y,,r
+Library Carpentry Workshop,2017-09-08,Rebecca ,Townsend,townsend.rebeccam@gmail.com,info_studies,student,Y,,carpentry
+LIbrary Carpentry Workshop,2017-09-08,Rebecca ,Townsend,townsend.rebeccam@gmail.com,info_studies,student,Y,,carpentry
+Literate Programming,2017-09-08,Rebecca ,Townsend,townsend.rebeccam@gmail.com,info_studies,student,Y,,
+Open Refine workshop,2017-09-23,Rebecca ,Townsend,townsend.rebeccam@gmail.com,info_studies,student,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Victoria,Luckenbaugh,vluckenbaugh@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Victoria,Luckenbaugh,vluckenbaugh@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Victoria,Luckenbaugh,vluckenbaugh@ucla.edu,mass,grad,,,r
+Introduction to R,2018-01-25,Wendy,Kurtz,wpkurtz@ucla.edu,,,,,r
+Introduction to R,2018-01-25,Li,Wynholds,wynholds@ucla.edu,info_studies,,Y,,r
+NA,Need to find,Li,Wynholds,wynholds@ucla.edu,info_studies,,Y,,
+SQL Workshop - Master of Social Science,2017-11-02,Yasamin,Roozbeh,yasamin.roozbeh@ucla.edu,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Yasamin,Roozbeh,yasamin.roozbeh@ucla.edu,mass,grad,,,python
+R workshop - MASS,2017-11-28,Yasamin,Roozbeh,yasamin.roozbeh@ucla.edu,mass,grad,,,r
+Introduction to R,2018-01-25,Jerry,Yin,yinzhanyuan1999@163.com,math,student,Y,,r
+Programming Pizza Party (R/Python),2018-02-01,Jerry,Yin,yinzhanyuan1999@163.com,math,student,Y,,r/python
+Data Cleaning with R,2018-02-06,Jerry,Yih,yinzhanyuan1999@g.ucla.edu,math,student,Y,,r
+NA,Need to find,Jerry ,Yih,yinzhanyuan1999@g.ucla.edu,math,student,Y,,
+Introduction to R,2018-01-25,Siyuan,Chen,yuangeniubi@gmail.com,,,,,r
+Data Sharing Bootcamp,2018-02-02,Yaxiu ,Yu,yxyu@library.eunu.edu.cn,library,visit_scholar,N ,,
+Data Management Workshop,2018-07-25,Yan,Zhou,yz007@g.ucla.edu,,,Y,,management
+A Hands-on Introduction to Literate Programming in R,2017-08-25,Zoe,Borovsky,zoe@library.ucla.edu,biomed,librarian,Y,,r
+Literate Programming,2017-09-08,Zoe,Borovsky,zoe@library.ucla.edu,biomed,librarian,Y,,
+Software Carpentry,2017-10-17,Zoe,Borovsky,zoe@library.ucla.edu,biomed,librarian,Y,,software
+Introducing Los Angeles Region Imagery Acquisition Consortium (LARIAC) Program at UCLA,2018-05-22,Zoe,Borovsky,zoe@library.ucla.edu,biomed,librarian,Y,,lariac
+Library Carpentry Workshop,2018-05-24,Zoe,Unno,zunno@usc.edu,usc,faculty,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,Zoe,Unno,zunno@usc.edu,usc,faculty,N ,,carpentry
+Programming Pizza Party,2018-02-15,Kirstian,Allan,,diit,,N ,,
+Library Carpentry Workshop,2017-09-08,Sara,Bond,,info_services,mlis_student,Y,,carpentry
+Library Carpentry Workshop,2018-05-24,John ,Chodacki,,ucop-cdl,staff,N ,,carpentry
+Using Data Effectively,2017-09-07,John ,Chodacki,,ucop-cdl,staff,N ,,data
+Library Carpentry Workshop,2017-09-08,John ,Chodacki,,ucop-cdl,staff,N ,,carpentry
+LIbrary Carpentry Workshop,2018-05-28,John ,Chodacki,,ucop-cdl,staff,N ,,carpentry
+Using Data Effectively,2018-09-07,John,Chodock,,ucop-cdl,staff,N ,,
+Library Carpentry Workshop,2018-05-24,Lori,Dedeyan,,ucla,staff,Y,,carpentry
+Using Data Effectively,2018-09-07,Chidre,Hornug,,ucla,staff,Y,,
+Data Management: File Organization,2018-02-13,Wanya ,Hu,,urban_planning,student,Y,,management
+Library Carpentry Workshop,2017-09-08,Robin,Katz,,ucr,librarian,N ,,carpentry
+Library Carpentry Workshop,2017-09-08,Shari,Laster,,ucsb,librarian,N ,,carpentry
+Using Data Effectively,2018-09-07,Shari,Laster,,ucsb,librarian,N ,,
+SQL Workshop - Master of Social Science,2017-11-02,Junjie,Liu,,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Junjie,Liu,,mass,grad,,,python
+R workshop - MASS,2017-11-28,Junjie,Liu,,mass,grad,,,r
+Library Carpentry Workshop,2017-09-08,Elizabeth ,McAulay,,dlp,librarian,Y,,carpentry
+Library Carpentry Workshop,2017-09-08,Hannah,Moshier,,preservation_program,staff,Y,,carpentry
+Data Cleaning with R,2018-02-06,Tam,Nguyen,,anderson,student,Y,,r
+Using Data Effectively,2017-09-07,Reid,Otsujd,,ucsd,librarian,N ,,data
+Using Data Effectively,2018-09-07,Reid,Otsujd,,ucsd,librarian,N ,,
+Using Data Effectively,2018-09-07,Scott ,Peterion,,ucb,staff,N ,,
+Using Data Effectively,2017-09-07,Scott,Peterson,,ucb,staff,N ,,data
+Library Carpentry Workshop,2017-09-08,Scott,Peterson,,ucb,staff,N ,,carpentry
+Library Carpentry Workshop,2017-09-08,Lisa ,Snyder,,idre,staff,Y,,carpentry
+Library Carpentry Workshop,2017-09-08,Amy ,Sonnicuson,,msmu,librarian,N ,,carpentry
+Using Data Effectively,2017-09-07,Martha ,Steele,,ucla,staff,Y,,data
+Library Carpentry Workshop,2017-09-08,Martha ,Steele,,ucla,staff,Y,,carpentry
+Using Data Effectively,2018-09-07,Martha ,Steele,,ucla,staff,Y,,
+Library Carpentry Workshop,2017-09-08,Christine,Wells,,idre,staff,Y,,carpentry
+Library Carpentry Workshop,2017-09-08,Isaac ,Williams,,ucla_library,staff,Y,,carpentry
+Software Carpentry,2017-10-16,Isaac ,Williams,,ucla_library,staff,Y,,software
+SQL Workshop - Master of Social Science,2017-11-02,Hongshan,Zhang,,mass,grad,,,sql
+Python- Master of Social Science,2017-11-16,Hongshan,Zhang,,mass,grad,,,python
+R workshop - MASS,2017-11-28,Hongshan,Zhang,,mass,grad,,,r
+Library Carpentry Workshop,2017-09-08,,,,ucla,staff,Y,,carpentry
+Data Cleaning with R,2018-02-06,Amy ,,,,fellow,N ,,r
+Using Data Effectively,2018-09-07,,,,ucla,staff,Y,,
