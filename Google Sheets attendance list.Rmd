@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Attendance list"
 author: "Ian May"
 date: "August 2, 2018"
 output: html_document
