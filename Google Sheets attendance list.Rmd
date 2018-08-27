@@ -4,9 +4,6 @@ author: "Ian May"
 date: "August 2, 2018"
 output: html_document
 ---
-
-## Stats for 2017-18
-
 ###{cache = T} only run changed code
 
 ```{r setup}
@@ -62,6 +59,16 @@ attend %>%
    ggplot(aes(x=date, y=number_date, fill= category)) + 
     geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) + labs(title = "Total Attendance Per Date", x = "Date", y="Attendance")
 ```
+
+```{r}
+attend %>% 
+  group_by(status) %>% 
+  summarize(number_status = n()) %>% 
+   ggplot(aes(x=reorder(status, -number_status), y=number_status)) + 
+    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) + labs(title = "Total Attendance Per Date", x = "Status", y="Attendance") +geom_text (aes(label=number_status), vjust= -0.5)
+```
+
+
 
 ```{r newchunk}
 carpentry <- subset(attend, attend$event == "Library Carpentry Workshop")
