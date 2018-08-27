@@ -16,7 +16,7 @@ library(scales)
 options(stringsAsFactors = F)
 ```
 
-```{r}
+```{r Dataframe revisions}
 attend <- read.csv("attendance_lists - outreach-fy17-18.csv")
 attend[attend==""] <- NA
 attend$event[attend$event == "Programming Pizza Party (Python/R/Data)"] <- "Programming Pizza Party"
@@ -38,24 +38,29 @@ attend$status[attend$status == "mus_student"] <- "grad"
 attend$status[attend$status == "curator/staff"] <- "staff"
 attend$status[attend$status == "staff; systems specialist"] <- "staff"
 attend$status[attend$status == "staff "] <- "staff"
+attend$status[attend$status == "visiting scholar"] <- "visiting_scholar"
+attend$status[attend$status == "visit_scholar"] <- "visiting_scholar"
+attend$status[attend$status == "staff/student"] <- "student_staff"
+
+
 str(attend)
 ```
 
-```{r}
+```{r Event attendance}
 attend %>% 
   group_by(event, category, status) %>% 
   summarize(number_people = n()) %>% 
   ggplot(aes(x=event, y=number_people, fill = status)) + 
-    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1))
+    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) +labs(title = "Total Attendance Per Event", x= "Event Name", y="Attendance")
 
 ```
 
-```{r}
+```{r Date Attendance}
 attend %>% 
   group_by(date, event, category) %>% 
   summarize(number_date = n()) %>% 
    ggplot(aes(x=date, y=number_date, fill= category)) + 
-    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1))
+    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) + labs(title = "Total Attendance Per Date", x = "Date", y="Attendance")
 ```
 
 ```{r newchunk}
@@ -69,7 +74,7 @@ carpentry %>%
     geom_bar(width = 1, stat = "identity")+
     coord_polar("y", start = 0)+
     theme_void()+
-    geom_text(aes(x=1, y= c(20, 53, 40, 47 , 2.5 , 7.5 , 59 ), label = per))
+    geom_text(aes(x=1, y= c(20, 53, 40, 47 , 2.5 , 8 , 59 ), label = per))+ labs(title = "Status of Library Carpentry Workshop Attendees")
   
 ```  
   
