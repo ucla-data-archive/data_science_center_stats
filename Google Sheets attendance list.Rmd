@@ -6,7 +6,7 @@ output: html_document
 ---
 ###{cache = T} only run changed code
 
-```{r setup}
+```{r setup, include=F}
 library(dplyr)
 library(ggplot2)
 library(scales)
@@ -36,6 +36,7 @@ attend$status[attend$status == "curator/staff"] <- "staff"
 attend$status[attend$status == "staff; systems specialist"] <- "staff"
 attend$status[attend$status == "staff "] <- "staff"
 attend$status[attend$status == "visiting scholar"] <- "visiting_scholar"
+attend$status[attend$status == "professor"] <- "faculty"
 attend$status[attend$status == "visit_scholar"] <- "visiting_scholar"
 attend$status[attend$status == "staff/student"] <- "student_staff"
 
@@ -65,7 +66,7 @@ attend %>%
   group_by(status) %>% 
   summarize(number_status = n()) %>% 
    ggplot(aes(x=reorder(status, -number_status), y=number_status)) + 
-    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) + labs(title = "Total Attendance Per Date", x = "Status", y="Attendance") +geom_text (aes(label=number_status), vjust= -0.5)
+    geom_col()+ theme(axis.text.x = element_text(angle = 45, size = 10, hjust = 1)) + labs(title = "Total Attendance Per Status", x = "Status", y="Attendance") +geom_text (aes(label=number_status), vjust= -0.5)
 ```
 
 
