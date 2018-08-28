@@ -39,8 +39,6 @@ attend$status[attend$status == "visiting scholar"] <- "visiting_scholar"
 attend$status[attend$status == "professor"] <- "faculty"
 attend$status[attend$status == "visit_scholar"] <- "visiting_scholar"
 attend$status[attend$status == "staff/student"] <- "student_staff"
-
-
 str(attend)
 ```
 
